@@ -4,4 +4,4 @@
 
 解决冲突
 
-git pull 本地commit
+git pull commit
